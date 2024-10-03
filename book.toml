@@ -1,0 +1,6 @@
+[book]
+authors = ["Amateur"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cmu_learning_record"
